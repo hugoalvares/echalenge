@@ -1,0 +1,9 @@
+{
+	"name": "e-chalenge",
+	"description": "gamification in companies",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.x"
+	}
+}
