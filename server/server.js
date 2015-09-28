@@ -23,7 +23,7 @@ app.post('/', function(request, response){
 
 	if (func == "login") {
 		classeColaborador.login(entrada.email, entrada.senha, function(resultado, dados){
-			response.send({resultado : resultado, dados : dados});
+			response.send({'resultado': resultado, 'dados': dados});
 		});
 	} else {
 		response.send('ok');
