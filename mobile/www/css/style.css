@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.userName {
+	color: blue;
+	font-style: bold;
+	float: left;
+	margin-left: 8px;
+}
+.else {
+	margin-left: 5px;
+    float: left;
+}
+.else2 {
+	margin-left: 5px;
+    float: left;
+    color: orange;
+}
+.userimg {
+	float: left;
+}
+.posttitle {
+	margin-top: 8px;
+}
